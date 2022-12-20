@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Le doged</title>
+    <title>ledoged.</title>
     <link>https://ledoged.github.io/</link>
-    <description>Recent content on Le doged</description>
+    <description>Recent content on ledoged.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 13 Oct 2022 11:17:07 +0800</lastBuildDate><atom:link href="https://ledoged.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Oct 2022 16:00:00 +0000</lastBuildDate><atom:link href="https://ledoged.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://ledoged.github.io/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ledoged.github.io/portfolio/</guid>
+      <description>hmm </description>
+    </item>
+    
+    <item>
+      <title>Blog template test</title>
+      <link>https://ledoged.github.io/posts/blog-template-test/</link>
+      <pubDate>Fri, 14 Oct 2022 16:00:00 +0000</pubDate>
+      
+      <guid>https://ledoged.github.io/posts/blog-template-test/</guid>
+      <description>Testing </description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://ledoged.github.io/posts/first-post/</link>
@@ -18,14 +36,13 @@
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>about me.</title>
       <link>https://ledoged.github.io/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://ledoged.github.io/about-hugo/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
-https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Learn more and contribute on GitHub.</description>
+      <description>Computers are dumb but I am dumber. However I still do it anyways. I like challenges that doesn&amp;rsquo;t bore me.
+My field of interests are wide but I enjoy learning about programming languages, algorithms and applications.</description>
     </item>
     
   </channel>

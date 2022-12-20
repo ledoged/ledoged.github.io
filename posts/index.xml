@@ -1,13 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Le doged</title>
+		<title>Posts on ledoged.</title>
 		<link>https://ledoged.github.io/posts/</link>
-		<description>Recent content in Posts on Le doged</description>
+		<description>Recent content in Posts on ledoged.</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Thu, 13 Oct 2022 11:17:07 +0800</lastBuildDate>
+		<lastBuildDate>Fri, 14 Oct 2022 16:00:00 +0000</lastBuildDate>
 		<atom:link href="https://ledoged.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Blog template test</title>
+			<link>https://ledoged.github.io/posts/blog-template-test/</link>
+			<pubDate>Fri, 14 Oct 2022 16:00:00 +0000</pubDate>
+			
+			<guid>https://ledoged.github.io/posts/blog-template-test/</guid>
+			<description>Testing </description>
+			<content type="html"><![CDATA[<h1 id="testing">Testing</h1>
+]]></content>
+		</item>
 		
 		<item>
 			<title>First Post</title>
