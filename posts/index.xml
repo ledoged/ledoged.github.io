@@ -1,36 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on ledoged.</title>
-		<link>https://ledoged.github.io/posts/</link>
-		<description>Recent content in Posts on ledoged.</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Fri, 14 Oct 2022 16:00:00 +0000</lastBuildDate>
-		<atom:link href="https://ledoged.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Blog template test</title>
-			<link>https://ledoged.github.io/posts/blog-template-test/</link>
-			<pubDate>Fri, 14 Oct 2022 16:00:00 +0000</pubDate>
-			
-			<guid>https://ledoged.github.io/posts/blog-template-test/</guid>
-			<description>Testing </description>
-			<content type="html"><![CDATA[<h1 id="testing">Testing</h1>
-]]></content>
-		</item>
-		
-		<item>
-			<title>First Post</title>
-			<link>https://ledoged.github.io/posts/first-post/</link>
-			<pubDate>Thu, 13 Oct 2022 11:17:07 +0800</pubDate>
-			
-			<guid>https://ledoged.github.io/posts/first-post/</guid>
-			<description>A Test print(&amp;#34;Welcome to ledoged&amp;#34;) </description>
-			<content type="html"><![CDATA[<h1 id="a-test">A Test</h1>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Welcome to ledoged&#34;</span><span class="p">)</span>
-</span></span></code></pre></div>]]></content>
-		</item>
-		
-	</channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on ledoged.</title><link>https://ledoged.github.io/posts/</link><description>Recent content in Posts on ledoged.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Dec 2022 16:20:38 +0800</lastBuildDate><atom:link href="https://ledoged.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Customizing</title><link>https://ledoged.github.io/posts/customizing/</link><pubDate>Fri, 16 Dec 2022 16:20:38 +0800</pubDate><guid>https://ledoged.github.io/posts/customizing/</guid><description>Customizing this damn site is kinda hard 🤦‍♂️😭. Hugo is a damn pain in the ass I&amp;rsquo;ve been trying to learn this crap but it&amp;rsquo;s taking a while&amp;hellip;</description><content type="html"><![CDATA[<p>Customizing this damn site is kinda hard 🤦‍♂️😭. Hugo is a damn pain in the ass I&rsquo;ve been trying to learn this crap but it&rsquo;s taking a while&hellip;</p>
+]]></content></item><item><title>Blog template test</title><link>https://ledoged.github.io/posts/blog-template-test/</link><pubDate>Fri, 14 Oct 2022 16:00:00 +0000</pubDate><guid>https://ledoged.github.io/posts/blog-template-test/</guid><description>Testing</description><content type="html">&lt;h1 id="testing">Testing&lt;/h1></content></item><item><title>First Post</title><link>https://ledoged.github.io/posts/first-post/</link><pubDate>Thu, 13 Oct 2022 11:17:07 +0800</pubDate><guid>https://ledoged.github.io/posts/first-post/</guid><description>A Test print(&amp;#34;Welcome to ledoged&amp;#34;)</description><content type="html"><![CDATA[<h1 id="a-test">A Test</h1>
+<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="k">print</span><span class="p">(</span><span class="s2">&#34;Welcome to ledoged&#34;</span><span class="p">)</span>
+</code></pre></div>]]></content></item><item><title>New theme 😎</title><link>https://ledoged.github.io/posts/new-theme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ledoged.github.io/posts/new-theme/</guid><description>After tinkering and messing up inside Hugo, I changed some things up in this theme!
+Next up is to implement some widgets to make my life easier..</description><content type="html">&lt;p>After tinkering and messing up inside Hugo, I changed some things up in this theme!&lt;/p>
+&lt;p>Next up is to implement some widgets to make my life easier..&lt;/p></content></item></channel></rss>
